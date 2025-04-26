@@ -2,7 +2,7 @@
 
 ❤️‍🔥 I’m passionate about creating engaging and easy-to-follow tutorials for non-tech people, beginners, and intermediates on my YouTube channel, DoodlingTech. 
 
-👀 I’m interested in web design, coding, and all things tech. My channel covers a wide range of topics, from WordPress tutorials to basic CSS and embedding AI into websites. I love sharing tips and tricks to help others improve their skills and create amazing web projects.
+👀 I’m interested in web design and all things tech. My channel covers a wide range of topics, from WordPress tutorials to basic CSS and embedding AI into websites. I love sharing tips and tricks to help others improve their skills and create amazing web projects.
 
 🌱 I’m currently learning how to integrate AI with WordPress to make websites more dynamic and user-friendly.
 
@@ -18,6 +18,6 @@ Check out my repositories for some cool code snippets and projects featured in m
 
 
 <!---
-doodlingwebdesigns/doodlingwebdesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+doodlingtech/doodlingtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
