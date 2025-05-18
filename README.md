@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on exciting web design projects and coding challenges. Let's create something amazing together!
 
-📫 How to reach me: You can reach me through my [YouTube channel](https://www.youtube.com/@DoodlingTech) or email me at boolie@doodlingwebdesigns.com.
+📫 How to reach me: You can reach me through my [YouTube channel](https://www.youtube.com/@DoodlingTech) or email me at boolie@doodlingtech.io.
 
 😄 Pronouns: She/Her
 
